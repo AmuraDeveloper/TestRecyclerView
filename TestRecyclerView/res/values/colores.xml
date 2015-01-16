@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <color name="negro_87">#DD000000</color>
+    <color name="negro_54">#89000000</color>
+    <color name="negro_12">#1e000000</color>
+    <color name="blanco_87">#DDFFFFFF</color>
+    <color name="blanco_54">#89FFFFFF</color>
+    <color name="blanco_12">#1eFFFFFF</color>
+    <color name="rojo">#e51c23</color>
+    <color name="verde">#8bc34a</color>
+    <color name="grisKitKat">#e0e0e0</color>
+    <color name="grisKitKat_54">#89e0e0e0</color>
+    <color name="transparente">#ffffffff</color>
+    <color name="rosa_acent">#FF4081</color>
+    <color name="rosa_acent_pressed">#F50057</color>
+    <color name="fondo_blanco">#FAFAFA</color>
+    <color name="fondo_gris">#EEEEEE</color>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorAccentBright">#ff80ab</color>
+</resources>
